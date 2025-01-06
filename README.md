@@ -39,6 +39,6 @@
      
   <details align="center">
     <summary>Discord Server</summary>
-    <a align="center" href="https://discord.gg/tRU27KtPAZ"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
+    <a align="center" href="https://discord.gg/x6D6ckXB"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
   </details>
 </details>
