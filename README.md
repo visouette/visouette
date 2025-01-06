@@ -28,11 +28,4 @@
   <summary>Socials</summary>
   <a href="https://discordapp.com/users/631527275346657280">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-  </a>
-  <a href="https://gitlab.com/narumi-hime">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/>
-  </a>
-  <a href="https://twitter.com/narumi_hime">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
-  </a>
   <br>
