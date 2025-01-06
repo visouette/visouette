@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <span title="Isn't she cute?">
-    <img src="https://github.com/narumii/narumii/assets/57463654/a0b659ed-332e-49d5-82ed-057316279ed9"/>
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/500281030602958844/4052F12392A2155B60176E3BB1654E407BD22F29/?imw=512&amp;imh=282&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
   </span><br><br>
   <strong>❤️ ロリ (scamservice) 😭<strong>
 </p>
@@ -36,9 +36,3 @@
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
   </a>
   <br>
-     
-  <details align="center">
-    <summary>Discord Server</summary>
-    <a align="center" href="https://discord.gg/x6D6ckXB"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
-  </details>
-</details>
