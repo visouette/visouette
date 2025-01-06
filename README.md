@@ -8,7 +8,7 @@
   <span title="Isn't she cute?">
     <img src="https://github.com/narumii/narumii/assets/57463654/a0b659ed-332e-49d5-82ed-057316279ed9"/>
   </span><br><br>
-  <strong>❤️ ロリ (Loli) 😭<strong>
+  <strong>❤️ ロリ (scamservice) 😭<strong>
 </p>
 
 <!-- 403? -->
